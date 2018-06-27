@@ -11,4 +11,3 @@ cities = ['patna', 'chandigarh', 'ranchi']
 
 for state, city in zip(states, cities):
     print("Your state is {0} and city is {1}.".format(state , city))
-
